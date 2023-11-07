@@ -8,7 +8,7 @@
 <details open>
   <summary><h2>💼 TOP OF MY PROJECTS:</h2></summary>
   <a href="https://github.com/a5an/BTW">
-    <img width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=A5an&repo=BTW&theme=gotham&show_owner=true"/>
+    <img width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=a5an&repo=BTW&theme=gotham&show_owner=true"/>
   </a>
 </details>
 
