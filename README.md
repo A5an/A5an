@@ -40,7 +40,6 @@
 
   <h3>🧩 TASK MANAGEMENT</h3>
   <img width="40" height="40" src="https://img.icons8.com/ios/40/notion.png" alt="notion"/>
-  <img src="https://i.ibb.co.com/nB10mPV/icons8-todoist-40.png">
   <img src="https://i.ibb.co.com/H2gZ2q6/icons8-obsidian-40.png">
 </details>
 
@@ -48,7 +47,7 @@
   <summary><h2>🔗 SOCIALS:</h2></summary>
  <p> <a href="https://www.linkedin.com/in/%D0%B0%D1%81%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8-%D0%B0%D1%83%D0%BA%D0%B5%D0%BD%D0%BE%D0%B2-1656ab198/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="асанали-аукенов" height="30" width="40" /></a>
 <a href="https://instagram.com/a5an044" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a5an044" height="30" width="40" /></a>
-   <a href="https://aukenovasanali1693@gmail.com/"> <img align="center" src="https://i.ibb.co.com/pQB4C5J/icons8-gmail-40.png"/> </a>
+   <a href="https://aukenovasanali1693@gmail.com/"> <img align="center" src="https://th.bing.com/th/id/OIP.TW21b-CFGudjWw39HNhqcgHaEK?pid=ImgDet&rs=1"/> </a>
 </p>
 </details>
 
