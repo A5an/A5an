@@ -13,6 +13,9 @@
   <a href="https://github.com/a5an/Sharuash.git">
     <img width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=a5an&repo=Sharuash&theme=gotham&show_owner=true"/>
   </a>
+    <a href="https://github.com/a5an/ETH">
+    <img width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=a5an&repo=ETH&theme=gotham&show_owner=true"/>
+  </a>
 </details>
 
 <details>
